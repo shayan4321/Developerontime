@@ -1,0 +1,112 @@
+@media (max-width: 1024px){
+    .home_cta .imgwrp img{top: 20px;
+        right: -40px;}
+    }
+    @media (min-width: 0px) and (max-width: 769px){
+        header .navwrp{display: none;}
+        header{padding: 40px 0 10px;}
+        header .logowrp img{       width: 36%;    margin: -20px 0 0;}
+        .btn-1{padding: 13px 25px; font-size: 15px; display: block; text-align: center;} 
+        .btn-2{padding: 13px 25px; font-size: 15px; display: block; text-align: center; margin: 10px 0 0px;} 
+        .portfoliowrp .port-box ul li{    width: 100%;}
+        .conbowrp .mainpkge .imgwrp img{display: none;}
+        .servicswrp .navwrp ul li{display: block;margin: 0 20px 10px;}
+        .servicswrp .txtdiv ul li{    width: 100%;}
+        .ctawrp .mainwrp{width: 100%;}
+        .ctawrp .mainwrp{padding: 60px 10px;}
+        .pkagwerp .navwrp ul li{display: block;margin: 0 20px 10px;}
+        .pkagwerp .pakge-box{margin: 0 0 15px;padding: 30px 25px 50px;}
+        .portfoliowrp .navwrp ul li{display: block;margin: 0 20px 10px;}
+        .servicswrp .ser-port{padding: 50px 10px;    width: 100%;}
+        .servicswrp .imgwrp img{    margin: 30px 0 0;}
+        .home_cta .imgwrp img{display: none;}
+        section.home_cta p{width: 100%;}
+        section.professional .primary_main h2{font-size: 24px;}
+        section.professional{overflow: hidden;}
+        .floatbutton{display: none;}
+        .home-bnerwrp .imgmain ul li{    margin: 0 10px 0 0;}
+        .home-bnerwrp .imgmain ul li img {    width: 100px;}
+        .cta_inner h1.custom_size{font-size: 28px;line-height: 36px;}
+        .main-pera{  font-size: 13px;}
+        .mic-img{display: none;}
+        .our-place-order:after{display: none;}
+        .main-heading{    font-size: 34px;}
+        .testiwrp .txtwrp{    padding: 10px 0 0;}
+        .testiwrp .imgwrp img{    margin: 0 auto 40px;}
+        .main-heading{font-size: 24px;}
+        .countrwrp .mainwrp{    margin: 10px 0;}
+        .countrwrp .mainwrp span{    font-size: 46px;}
+        .countrwrp .mainwrp h6{font-size: 17px;}
+        .countrwrp{      background-size: cover;
+        background-position: bottom;  padding: 30px 0 0px;}
+        .sec-right{display: none;}
+        .sec-left{width: 100%;}
+        .btmform .wrapper{padding: 40px 20px;}
+        .btmform .wrapper{margin: 30px 0 10px 0;}
+        .home-bnerwrp .txtwrp h1{font-size: 40px;}
+        .home-bnerwrp .txtwrp{    margin: 90px 0 0;}
+        .logo-bnner .txt-container h2{font-size: 36px;}
+        .logo-bnner .txt-container p{font-size: 15px;}
+        .logo-bnner .txt-container li{    font-size: 16px;}
+        .main-combpwrp .imgwrp img{display: none;}
+        .secndwrp .imgwrp img{margin: 50px 0 0;}
+        .offerwrp h4{font-size: 34px;}
+        .offerwrp h4 span{margin: 0 0 20px;font-size: 26px;}
+        .cntr-book img{display: none;}
+        .cntr-book{display: none;}
+        .flexiblefeatures-sec ul{margin-top: 20px;}
+        .tecnoglywrp .imgwrp img{float: unset;width: 100%;margin-right: 0;}
+        .tecnoglywrp {padding: 0px 0 40px;}
+        .main-services-banner-sec .imgsec{display: none;}
+        .digital-bnr .imgbox .hvrimg{display: none;}
+        .mobile-nav-btn{    z-index: 9999 !important;}
+        .mobile-nav img{width: 120px;}
+        .info_part p{width: 100%;}
+        .hk_bor{padding: 10px 20px 20px;    display: none;}
+        .info_two_inner{width: 100%;}
+        .form-wrap{width: 100%;    margin: 70px auto 0;}
+        .home-bnerwrp{      padding: 50px 0 70px;}
+        .homewrp{background-size: cover;
+        background-position: center;    margin: 0px 0 0;}
+        .srv-info-sec{padding: 30px 0 0;}
+        header .upr-navwrp ul li a{font-size: 13px;}
+        .prof_box{width: 100%;}
+        header .upr-navwrp ul li{    margin: 0 8px 0;}
+        .field-msg textarea{width: 100%;}
+        .our-place-order p a{    font-size: 26px;}
+        header .logowrp{position: relative; z-index: 999;}
+        .intl-tel-input.separate-dial-code .selected-flag{border-radius: 22px 0px 0px 20px !important;}
+        footer{   padding: 180px 0 20px;}
+        .srv-info-sec .srv-info-wrap .srv-item-content p{font-size: 13px;   margin:0px;    height: 110px;}
+        .srv-info-sec .srv-info-wrap .srv-item-ico i{    font-size: 26px;}
+        .srv-info-sec .srv-info-wrap .srv-item-content{padding: 20%;}
+        .countrwrp h2 br{display: none;}
+        .testiwrp .txtdiv{display: block; text-align: center;}
+        .our-place-order .container:after{display: none;}
+        br{display: none;}
+        .banner-sec{height: 684px;    background-size: cover;   background-position: center;}
+        .testiwrp .txtdiv h4{font-size: 34px;}
+        .testiwrp .txtdiv p{width: 100%;}
+        .field-btn input[type=submit]{width: 100%;}
+        footer .navwrp h4{padding: 25px 0 30px;}
+        .mobile-nav-btn span:before, .mobile-nav-btn span:after{    background-color: #a10639 !important;}
+        .mobile-nav-btn span{ background-color: #a10639 !important;}
+        .home-bnerwrp .imgwrp img.img-exta{display:none;}
+        .field{padding: 5px 0px 10px 0px;}
+        .home-bnerwrp .imgwrp{display:none;}
+        .field input, .field select{    height: 57px;}
+        .intl-tel-input .selected-flag .iti-arrow{    right: 0px !important;}
+        .srv-info-sec .srv-info-wrap .srv-item-content h3{font-size: 20px;}
+        .srv-info-sec .srv-info-wrap .srv-item-content h5{font-size: 13px;}
+        .ordrtop .croxwrp a i{     position: relative;   top: -30px;}
+        .logo-bnner .txt-container{    margin: 250px 0 50px;}
+        .orderformwrp .mtpx-100{margin-top: 0 !important;
+        margin-bottom: 50px;}
+        .our-place-order{padding: 10px 0 50px;}
+        .second-fold li{margin-bottom: 30px;}
+        .pkagwerp .pakge-box .pkge-name h4{font-size: 24px;}
+        #frmStripePayment div label{padding: 0 0 10px;    display: block;}
+        .fltwrp p{    display: block;    text-align: center;}
+        .toppera{font-size: 22px;}
+        .pmntwrp .navwrp ul{    text-align: center;}
+    }
